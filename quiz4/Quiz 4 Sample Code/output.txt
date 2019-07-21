@@ -1,0 +1,31 @@
+New set:
+Shape Factory ID: 5972
+Circle ID: 1879
+
+Shape Factory ID: 5972
+Rectangle ID: 823
+
+Color Factory ID: 2155
+RED ID: 5268
+
+Color Factory ID: 2155
+GREEN ID: 6282
+
+Color Factory ID: 2155
+BLUE ID: 8976
+
+New set:
+Shape Factory ID: 5972
+Circle ID: 9668
+
+Shape Factory ID: 5972
+Rectangle ID: 8011
+
+Color Factory ID: 2155
+RED ID: 9349
+
+Color Factory ID: 2155
+GREEN ID: 8118
+
+Color Factory ID: 2155
+BLUE ID: 5105
